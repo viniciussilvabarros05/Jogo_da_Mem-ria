@@ -3,8 +3,8 @@
 
 
 # Sobre
-O projeto é um jogo muito conhecido: o jogo da memória. 
-Projeto desenvolvido nas aulas do curso progBr. Aproveitem a jogatina
+The project is a very popular game: the memory game.
+Project developed in the classes of the progBr course. enjoy the game
 
 # Tecnologias
 <p> &#127919 HTML</p>
