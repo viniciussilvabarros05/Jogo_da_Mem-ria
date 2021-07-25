@@ -81,3 +81,10 @@ body{
     border: none;
     margin-top: 10px;
 }
+
+
+@media (max-width: 800px) {
+    #GameBoard{
+       overflow-x: auto;
+    }      
+}
