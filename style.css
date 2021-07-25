@@ -12,7 +12,7 @@ body{
     background-color: #c7cdd3;
 }
 
-#gameBoard{
+#GameBoard{
     max-width: 700px;
     display: grid;
     grid-template: 1fr 1fr 1fr 1fr 1fr/ 1fr 1fr 1fr 1fr;
@@ -22,7 +22,7 @@ body{
 
 .card{
     position: relative;
-     width: 150px;
+    width: 150px;
     height: 150px;
     transform-style: preserve-3d; /*Serve para o css entender que o objeto é 3d*/
     transition: transform .5s;
