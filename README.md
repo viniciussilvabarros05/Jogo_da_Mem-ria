@@ -13,7 +13,7 @@ Project developed in the classes of the progBr course. enjoy the game
 
 # PLAY GAME
 
-  <a href= "jogo-da-memoria-six.vercel.app">Start Game</a>
+  <a href= "https://jogo-da-memoria-six.vercel.app">Start Game</a>
 
 ## Autoria
 
