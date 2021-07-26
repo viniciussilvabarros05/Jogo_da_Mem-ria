@@ -11,9 +11,9 @@ Project developed in the classes of the progBr course. enjoy the game
 <p> &#127919 CSS </p>
 <p> &#127919 Javascript <p>
 
-# Ilustração
+# Link
 
-  unavailable... for now
+  jogo-da-memoria-six.vercel.app
 
 ## Autoria
 
